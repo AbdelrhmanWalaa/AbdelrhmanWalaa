@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AbdelrhmanWalaa
-- 👀 I’m interested in embedded software development.
-- 🌱 I’m currently learning embedded systems.
-- 💞️ I’m looking to collaborate on big projects regarding embedded systems.
-- 📫 How to reach me ...
+- 👀 I’m interested in Embedded Software Development.
+- 🌱 I’m currently learning Advanced Topics in Embedded Systems.
+- 💞️ I’m looking to collaborate on Big Projects regarding Embedded Dystems.
+- 📫 How to reach me @ abdelrahmanwalaa96@gmail.com
 
 <!---
 AbdelrhmanWalaa/AbdelrhmanWalaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
