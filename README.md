@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdelrhmanWalaa
 - 👀 I’m interested in Embedded Software Development.
 - 🌱 I’m currently learning Advanced Topics in Embedded Systems.
-- 💞️ I’m looking to collaborate on Big Projects regarding Embedded Dystems.
+- 💞️ I’m looking to collaborate on Big Projects regarding Embedded Systems.
 - 📫 How to reach me @ abdelrahmanwalaa96@gmail.com
 
 <!---
